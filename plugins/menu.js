@@ -34,7 +34,7 @@ let tags = {
 const defaultMenu = {
   before: `
 
-🙏🏻 Namaste %name, how can i help you?
+🙏𝕂𝕆ℕ𝕀ℂℍ𝕀'𝕎𝔸  %name, how can i help you?
 
 🪵 Left: *%limit Limit*
 🎗️ Role: *%role*
@@ -43,12 +43,12 @@ const defaultMenu = {
 
 〽️ Prefix: *%p*
 📅 Date: *%week, %date*
-💠 Github: github.com/itsajaygaur/tokio-wabot
+💠 OWNER:Wa.me//+918130784851
 
 👇🏻 All usable commands are listed below 
 
 %readmore`.trimStart(),
-  header: '        *━━❰･%category･❱━━*',
+  header: '        *♥*♡∞:｡.❰･%category･❱｡.｡:∞♡*♥*',
   body: ' 🌠 %cmd %islimit %isPremium',
   footer: ' ',
   after: `🌟 *Hope you're enjoying bot, have a great day* 
